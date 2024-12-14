@@ -659,7 +659,7 @@ function getCountOfOddNumbers(number) {
       num += 1;
     }
     i += 1;
-  }
+   }
   return num;
 }
 
